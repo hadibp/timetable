@@ -1,0 +1,165 @@
+#pg 3rd sem
+#M.com
+{
+    "monday":{
+        "h1":{
+            "room":"online",
+            "subject":"IT ",
+            "teacher":"Ms. Kadeeja Ferin",
+            "hid":"hr1"
+        },
+        "h2":{
+            "room":"online",
+            "subject":"FM",
+            "teacher":"Ms. Naseema K.P.",
+            "hid":"hr2"
+        },
+        "h3":{
+            "room":"online",
+            "subject":"IM",
+            "teacher":"Ms. A.M. Indu A.S. Maheswara",
+            "hid":"hr3"
+        },
+        "h4":{
+            "room":"online",
+            "subject":"FMI",
+            "teacher":"Mr. Mujeeb Rahman",
+            "hid":"hr4"
+        },
+        "h5":{
+            "room":"online",
+            "subject":"SPM",
+            "teacher":"Ms. A.M. Indu A.S. Maheswara ",
+            "hid":"hr5"
+        }
+    },
+          
+    "tuesday":{
+        "h1":{
+            "room":"online",
+            "subject":"FM",
+            "teacher":"Ms. Naseema K.P",
+            "hid":"hr6"
+        },
+        "h2":{
+            "room":"online",
+            "subject":"IT",
+            "teacher":"Mr. Muhammed Nizam",
+            "hid":"hr7"
+        },
+        "h3":{
+            "room":"online",
+            "subject":"IM",
+            "teacher":"Ms. A.M. Indu A.S. Maheswara",
+            "hid":"hr8"
+        },
+        "h4":{
+            "room":"online",
+            "subject":"FMI",
+            "teacher":"Ms.Haneesa Mol P ",
+            "hid":"hr9"
+        },
+        "h5":{
+            "room":"online",
+            "subject":"RM",
+            "teacher":"Ms. Kadeeja Ferin",
+            "hid":"hr10"
+        }
+    },
+    "wednesday":{
+        "h1":{
+            "room":"online",
+            "subject":"RM",
+            "teacher":"Ms. Kadeeja Ferin",
+            "hid":"hr11"
+        },
+        "h2":{
+            "room":"online",
+            "subject":"FM",
+            "teacher":"Ms. Naseema K.P.",
+            "hid":"hr12"
+        },
+        "h3":{
+            "room":"online",
+            "subject":"IM",
+            "teacher":"Ms. A.M. Indu A.S. Maheswara",
+            "hid":"hr13"
+        },
+        "h4":{
+            "room":"online",
+            "subject":"IT",
+            "teacher":"Mr. Muhammed Nizam",
+            "hid":"hr14"
+        },
+        "h5":{
+            "room":"online",
+            "subject":"FMI",
+            "teacher":" Ms.Haneesa Mol P ",
+            "hid":"hr15"
+        }
+    },
+    "thursday":{
+        "h1":{
+            "room":"online",
+            "subject":"FM",
+            "teacher":"Ms. Naseema K.P",
+            "hid":"hr16"
+        },
+        "h2":{
+            "room":"online",
+            "subject":"FMI",
+            "teacher":" Mr. Samsheer Babu",
+            "hid":"hr17"
+        },
+        "h3":{
+            "room":"online",
+            "subject":"RM",
+            "teacher":"Ms. Kadeeja Ferin",
+            "hid":"hr18"
+        },
+        "h4":{
+            "room":"online",
+            "subject":"IT",
+            "teacher":"Mr. Muhammed Nizam",
+            "hid":"hr19"
+        },
+        "h5":{
+            "room":"online",
+            "subject":"IM",
+            "teacher":"Ms. A.M. Indu A.S. Maheswara",
+            "hid":"hr20"
+        }
+    },
+    "friday":{
+        "h1":{
+            "room":"online",
+            "subject":"FM ",
+            "teacher":"Ms. Naseema K.P.",
+            "hid":"hr21"
+        },
+        "h2":{
+            "room":"online",
+            "subject":"FMI",
+            "teacher":"Mr. Samsheer Babu",
+            "hid":"hr22"
+        },
+        "h3":{
+            "room":"online",
+            "subject":"RM",
+            "teacher":"Ms. Kadeeja Ferin",
+            "hid":"hr23"
+        },
+        "h4":{
+            "room":"online",
+            "subject":"IT",
+            "teacher":"Mr. Muhammed Nizam",
+            "hid":"hr24"
+        },
+        "h5":{
+            "room":"online",
+            "subject":"IM",
+            "teacher":"Ms. A.M. Indu A.S. Maheswara ",
+            "hid":"hr25"
+        }
+    },
+}

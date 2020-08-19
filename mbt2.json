@@ -1,0 +1,167 @@
+#pg 3rd sem
+#MSC BT iii
+{
+    "monday":{
+        "h1":{
+            "room":"online",
+            "subject":"GE",
+            "teacher":"Dr.Sahaya Shibu B.",
+            "hid":"hr1"
+        },
+        "h2":{
+            "room":"online",
+            "subject":"PBT",
+            "teacher":"AKH",
+            "hid":"hr2"
+        },
+        "h3":{
+            "room":"online",
+            "subject":"PBT",
+            "teacher":"Dr.Sahaya Shibu B.",
+            "hid":"hr3"
+        },
+        "h4":{
+            "room":"online",
+            "subject":"PBT",
+            "teacher":"Dr.Sahaya Shibu B.",
+            "hid":"hr4"
+        },
+        "h5":{
+            "room":"online",
+            "subject":"PBT",
+            "teacher":"Dr.Sahaya Shibu B.",
+            "hid":"hr5"
+        }
+    },
+          
+    "tuesday":{
+        "h1":{
+            "room":"online",
+            "subject":"IM-(P)",
+            "teacher":"Dr. Servin Wesley P.",
+            "hid":"hr6"
+        },
+        "h2":{
+            "room":"online",
+            "subject":"IM-(P)",
+            "teacher":"Dr. Servin Wesley P.",
+            "hid":"hr7"
+        },
+        "h3":{
+            "room":"online",
+            "subject":"IM",
+            "teacher":"Dr. Servin Wesley P.",
+            "hid":"hr8"
+        },
+        "h4":{
+            "room":"online",
+            "subject":"BPT",
+            "teacher":"Ms. Nafila P.P.",
+            "hid":"hr9"
+        },
+        "h5":{
+            "room":"online",
+            "subject":"PBT",
+            "teacher":"Dr.Sahaya Shibu B",
+            "hid":"hr10"
+        }
+    },
+    "wednesday":{
+        "h1":{
+            "room":"online",
+            "subject":"PMT",
+            "teacher":"Dr.Sahaya Shibu B",
+            "hid":"hr11"
+        },
+        "h2":{
+            "room":"online",
+            "subject":"SCB A",
+            "teacher":"Ms. Nafila P.P",
+            "hid":"hr12"
+        },
+        "h3":{
+            "room":"online",
+            "subject":"GE(P)",
+            "teacher":"Ms. Nafila P.P",
+            "hid":"hr13"
+        },
+        "h4":{
+            "room":"online",
+            "subject":"GE(P)",
+            "teacher":"Ms. Nafila P.P",
+            "hid":"hr14"
+        },
+        "h5":{
+            "room":"online",
+            "subject":"GE",
+            "teacher":"Dr.Sahaya Shibu B",
+            "hid":"hr15"
+        }
+    },
+    "thursday":{
+        "h1":{
+            "room":"online",
+            "subject":"IM",
+            "teacher":"AKH",
+            "hid":"hr16"
+        },
+        "h2":{
+            "room":"online",
+            "subject":"BPT",
+            "teacher":"Ms. Nafila P.P.",
+            "hid":"hr17"
+        },
+        "h3":{
+            "room":"online",
+            "subject":"IM",
+            "teacher":"Dr. Servin Wesley P",
+            "hid":"hr18"
+        },
+        "h4":{
+            "room":"online",
+            "subject":"GE",
+            "teacher":"Dr.Sahaya Shibu B",
+            "hid":"hr19"
+        },
+        "h5":{
+            "room":"online",
+            "subject":"GE",
+            "teacher":"Ms. Nafila P.P.",
+            "hid":"hr20"
+        }
+    },
+    "friday":{
+        "h1":{
+            "room":"online",
+            "subject":"GE",
+            "teacher":"Ms. Nafila P.P.",
+            "hid":"hr21"
+        },
+        "h2":{
+            "room":"online",
+            "subject":"BPT",
+            "teacher":"Dr.Sahaya Shibu B",
+            "hid":"hr22"
+        },
+        "h3":{
+            "room":"online",
+            "subject":"SCB",
+            "teacher":"AKH",
+            "hid":"hr23"
+        },
+        "h4":{
+            "room":"online",
+            "subject":"BPT L",
+            "teacher":"AKH",
+            "hid":"hr24"
+        },
+        "h5":{
+            "room":"online",
+            "subject":"BPT L",
+            "teacher":"AKH",
+            "hid":"hr25"
+        }
+    },
+}
+
+          
