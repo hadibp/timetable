@@ -1,0 +1,165 @@
+{
+    "monday":{
+        "h1":{
+            "room":"online",
+            "sub":"RES ",
+            "teacher":"Mr. Jamsheel C",
+            "hid":"hr1"
+        },
+        "h2":{
+            "room":"online",
+            "sub":"PR",
+            "teacher":"Mr. Nazarullah P",
+            "hid":"hr2"
+        },
+        "h3":{
+            "room":"online",
+            "sub":"DOC",
+            "teacher":"Ms. Akhila K.",
+            "hid":"hr3"
+        },
+        "h4":{
+            "room":"online",
+            "sub":"ONL",
+            "teacher":"Mr. Jamsheel C.",
+            "hid":"hr4"
+        },
+        "h5":{
+            "room":"online",
+            "sub":"ISE",
+            "teacher":"AS",
+            "hid":"hr5"
+        }
+    },
+          
+    "tuesday":{
+        "h1":{
+            "room":"online",
+            "sub":"RES",
+            "teacher":"Mr. Jamsheel C.",
+            "hid":"hr6"
+        },
+        "h2":{
+            "room":"online",
+            "sub":"DOC",
+            "teacher":"Ms. Akhila K.",
+            "hid":"hr7"
+        },
+        "h3":{
+            "room":"online",
+            "sub":"PR",
+            "teacher":"Mr. Nazarullah P",
+            "hid":"hr8"
+        },
+        "h4":{
+            "room":"online",
+            "sub":"ONL",
+            "teacher":"Mr. Jamsheel C.",
+            "hid":"hr9"
+        },
+        "h5":{
+            "room":"online",
+            "sub":"DOC",
+            "teacher":"Ms. Akhila K.",
+            "hid":"hr10"
+        }
+    },
+    "wednesday":{
+        "h1":{
+            "room":"online",
+            "sub":"PR",
+            "teacher":"Mr. Nazarullah P.",
+            "hid":"hr11"
+        },
+        "h2":{
+            "room":"online",
+            "sub":"ONL",
+            "teacher":"Mr. Jamsheel C. ",
+            "hid":"hr12"
+        },
+        "h3":{
+            "room":"online",
+            "sub":"MEMG",
+            "teacher":"Mr. Nazarullah P",
+            "hid":"hr13"
+        },
+        "h4":{
+            "room":"online",
+            "sub":"RES",
+            "teacher":"Mr. Jamsheel C.",
+            "hid":"hr14"
+        },
+        "h5":{
+            "room":"online",
+            "sub":"DOC",
+            "teacher":" Ms. Akhila K.",
+            "hid":"hr15"
+        }
+    },
+    "thursday":{
+        "h1":{
+            "room":"online",
+            "sub":"DOC",
+            "teacher":"Ms. Akhila K.",
+            "hid":"hr16"
+        },
+        "h2":{
+            "room":"online",
+            "sub":"RES",
+            "teacher":"Mr. Jamsheel C.",
+            "hid":"hr17"
+        },
+        "h3":{
+            "room":"online",
+            "sub":"MEMG",
+            "teacher":"Mr. Nazarullah P.",
+            "hid":"hr18"
+        },
+        "h4":{
+            "room":"online",
+            "sub":"ONL",
+            "teacher":"Mr. Jamsheel C.",
+            "hid":"hr19"
+        },
+        "h5":{
+            "room":"online",
+            "subt":"PR",
+            "teacher":"Mr. Nazarullah P.",
+            "hid":"hr20"
+        }
+    },
+    "friday":{
+        "h1":{
+            "room":"online",
+            "sub":"DOC ",
+            "teacher":"Ms. Akhila K",
+            "hid":"hr21"
+        },
+        "h2":{
+            "room":"online",
+            "sub":"RES",
+            "teacher":"Mr. Jamsheel C.",
+            "hid":"hr22"
+        },
+        "h3":{
+            "room":"online",
+            "sub":"MEMG",
+            "teacher":"Mr. Nazarullah P.",
+            "hid":"hr23"
+        },
+        "h4":{
+            "room":"online",
+            "sub":"ONL",
+            "teacher":"Mr. Jamsheel C.",
+            "hid":"hr24"
+        },
+        "h5":{
+            "room":"online",
+            "sub":"DOC",
+            "teacher":"Ms. Akhila K",
+            "hid":"hr25"
+        }
+    }
+},
+
+          
