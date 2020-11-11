@@ -1,0 +1,162 @@
+{
+    "monday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Me",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr1"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Qt",
+            "teacher":"Nazreen K.T",
+            "hid":"Hr2"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Bnk",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr3"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Lang",
+            "teacher":"",
+            "hid":"Hr4"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Eng",
+            "teacher":"Najda A",
+            "hid":"Hr5"
+        }
+    },
+    "tuesday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Lang",
+            "teacher":"",
+            "hid":"Hr6"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Qt",
+            "teacher":"Nazreen K.T",
+            "hid":"Hr7"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Eng",
+            "teacher":"Najda.A",
+            "hid":"Hr8"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Me",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr9"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Bnk",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr10"
+        }
+    },
+    "wednesday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Lang",
+            "teacher":"",
+            "hid":"Hr11"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Eng",
+            "teacher":"Najda A",
+            "hid":"Hr12"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Qt",
+            "teacher":"Nazreen K.T",
+            "hid":"Hr13"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Bnk",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr14"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Me",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr15"
+        }
+    },
+    "thursday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Eng",
+            "teacher":"Najda A",
+            "hid":"Hr16"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Qt",
+            "teacher":"Nazreen K.T",
+            "hid":"Hr17"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Me",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr18"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Bnk",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr19"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Lang",
+            "teacher":"",
+            "hid":"Hr20"
+        }
+    },
+    "friday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Bnk",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr21"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Lang",
+            "teacher":"",
+            "hid":"Hr22"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Qt",
+            "teacher":"Nazreen K.T",
+            "hid":"Hr23"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Eng",
+            "teacher":"Najda A",
+            "hid":"Hr24"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Bnk",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr25"
+        }
+    }
+}

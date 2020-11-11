@@ -1,0 +1,162 @@
+{
+    "monday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Br",
+            "teacher":"Kadheeja Ferin",
+            "hid":"Hr1"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Bns",
+            "teacher":"",
+            "hid":"Hr2"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Pbs",
+            "teacher":"Abdul Majeed K",
+            "hid":"Hr3"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Hrm",
+            "teacher":"A.K shanawas",
+            "hid":"Hr4"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Ca",
+            "teacher":"A.M Indu A.S Maheswara",
+            "hid":"Hr5"
+        }
+    },
+    "tuesday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Br",
+            "teacher":"Kadheeja Ferin",
+            "hid":"Hr6"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Bns",
+            "teacher":"Thanisha",
+            "hid":"Hr7"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Hrm",
+            "teacher":"A.K shanawas",
+            "hid":"Hr8"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Ca",
+            "teacher":"A.M Indu A.S Maheswara",
+            "hid":"Hr9"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Pbs",
+            "teacher":"Abdul Majeed K",
+            "hid":"Hr10"
+        }
+    },
+    "wednesday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Ca",
+            "teacher":"A.M Indu A.S Maheswara",
+            "hid":"Hr11"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Bns",
+            "teacher":"Abdul Majeed K",
+            "hid":"Hr12"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Pbs",
+            "teacher":"Abdul Majeed K",
+            "hid":"Hr13"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Ca",
+            "teacher":"A.M Indu A.S Maheswara",
+            "hid":"Hr14"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Br",
+            "teacher":"Kadheeja Ferin",
+            "hid":"Hr15"
+        }
+    },
+    "thursday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Ca",
+            "teacher":"A.M Indu A.S Maheswara",
+            "hid":"Hr16"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Bns",
+            "teacher":"Thanisha",
+            "hid":"Hr17"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Hrm",
+            "teacher":"A.K shanawas",
+            "hid":"Hr18"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Br",
+            "teacher":"Kadheeja Ferin",
+            "hid":"Hr19"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Pbs",
+            "teacher":"Abdul Majeed K",
+            "hid":"Hr20"
+        }
+    },
+    "friday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Ca",
+            "teacher":"Abdul Majeed K",
+            "hid":"Hr21"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Hrm",
+            "teacher":"A.K shanawas",
+            "hid":"Hr22"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Ca",
+            "teacher":"A.M Indu A.S Maheswara",
+            "hid":"Hr23"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Bns",
+            "teacher":"Thanisha",
+            "hid":"Hr24"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Pbs",
+            "teacher":"Abdul Majeed K",
+            "hid":"Hr25"
+        }
+    }
+}

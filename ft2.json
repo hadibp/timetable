@@ -1,0 +1,162 @@
+{
+    "monday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Chem",
+            "teacher":"Ragi C",
+            "hid":"Hr1"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Phy",
+            "teacher":"Shahid T.S",
+            "hid":"Hr2"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Fe",
+            "teacher":"Saleena P",
+            "hid":"Hr3"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Gi",
+            "teacher":"Shahila M.M",
+            "hid":"Hr4"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Phy",
+            "teacher":"Shahid T.S",
+            "hid":"Hr5"
+        }
+    },
+    "tuesday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Phy",
+            "teacher":"Shahid T.S",
+            "hid":"Hr6"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Fe",
+            "teacher":"Saleena P",
+            "hid":"Hr7"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Phy",
+            "teacher":"Shahid T.S",
+            "hid":"Hr8"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Chem",
+            "teacher":"Ragi C",
+            "hid":"Hr9"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Gi",
+            "teacher":"Shahila M.M",
+            "hid":"Hr10"
+        }
+    },
+    "wednesday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Bns",
+            "teacher":"Thanisha",
+            "hid":"Hr11"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Chem",
+            "teacher":"Ragi C",
+            "hid":"Hr12"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Fe",
+            "teacher":"Safeena P.A",
+            "hid":"Hr13"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Gi",
+            "teacher":"Shahila M.M",
+            "hid":"Hr14"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Phy",
+            "teacher":"Shahid T.S",
+            "hid":"Hr15"
+        }
+    },
+    "thursday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Fe",
+            "teacher":"Saleena P",
+            "hid":"Hr16"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Bns",
+            "teacher":"Radhika P.K",
+            "hid":"Hr17"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Gi",
+            "teacher":"Shahila M.M",
+            "hid":"Hr18"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Chem",
+            "teacher":"Ragi C",
+            "hid":"Hr19"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Phy",
+            "teacher":"Shahid T.S",
+            "hid":"Hr20"
+        }
+    },
+    "friday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Bns",
+            "teacher":"Thanisha",
+            "hid":"Hr21"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Fe",
+            "teacher":"Safeena P.A",
+            "hid":"Hr22"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Chem",
+            "teacher":"Ragi C",
+            "hid":"Hr23"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Bns",
+            "teacher":"Radhika P.K",
+            "hid":"Hr24"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Fe",
+            "teacher":"Safeena P.A",
+            "hid":"Hr25"
+        }
+    }
+}

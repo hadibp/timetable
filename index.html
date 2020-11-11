@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
+        <link rel="stylesheet" >
+    </head>
+    <center>
+      <h1>welcome to sias</h1>
+      <h4>"The struggle you're in today is the strength u need for tommorow"</h4>
+      <style type="text/css">
+       body{
+        background-image: url(photo_2020-10-19_12-44-52.jpg);
+        width: 100%; 
+        height: 100%;
+        background-attachment: fixed;
+        background-position: center;
+        -webkit-background-size:cover;
+        -moz-background-size:cover;
+        -o-background-size: cover;
+      } 
+      h1 {
+        color: white;
+        text-align: center;
+        margin: 10%;
+        font-family: roman;
+        font-weight: bold;
+        font-size: 60px;
+        text-transform: capitalize;
+      }
+        h4 {
+          color:#FF9A35;
+          margin: 2%;
+          font-family: initial;
+          font-weight: bold;
+          text-transform: capitalize;
+          font-size: 24px;
+          font-style: italic;
+         }
+        .year:hover, .year:active{
+          color: yellow; 
+           }
+           #f:hover, #f:active{
+          color: yellow; 
+           }
+           .button:hover, .button:active{
+          color: yellow; 
+           }
+        .year{
+        padding: 8px 12px;
+        color: white;
+        background-color:black;
+        border:1px;
+        border-radius: 10px;
+        cursor: pointer;
+        padding-right: 30px;
+        border-top: 2px white solid;
+        border-left: 2px whitesmoke solid;
+        
+
+      }
+      #f{
+        padding: 8px 12px;
+        color: white;
+        background-color:black;
+        border:1px;
+        border-radius: 10px;
+        cursor: pointer;
+        padding-right: 10px;
+        border-top: 2px white solid;
+        border-left: 2px whitesmoke solid;
+        
+
+
+      }
+   .button{
+      position: relative;
+      text-align: center;
+      background-color: black;
+      padding: 10px;
+      font-size: 11px;
+      color: white;
+      font-family: poppins;
+      font-weight: 200;
+      border-top: 2px white solid;
+      border-left: 2px whitesmoke solid;
+      text-transform: uppercase;
+      letter-spacing: 10px;
+      cursor:pointer;
+      border-radius: 200px;
+      transition: 1.5px;
+      margin: 10px;
+      
+
+     }
+      
+        </style>
+     }
+    <body onload="classChange()", display="flex",textalign="center">
+      <form method="GET" action="time.html">
+        <input type="text" hidden name="c" id="c">
+        <select name="y" class="year">
+          <option value=1>1</option>
+          <option value=2>2</option>
+          <option value=3>3</option>
+         
+        </select>
+        <select name="f" onchange="classChange()" id="f">
+          
+          <option value=cs>B.Sc. Computer Science</option>
+          <option value=bca>BCA</option>
+          <option value=bba>BBA</option>
+          <option value=bcom>B. Com</option>
+          <option value=eco>B.A. Economics</option>
+          <option value=ft>B.Sc. Food Technology</option>
+          <option value=mb>B.Sc. Microbiology</option>
+          <option value=bt>B.Sc. Biotechnology</option>
+          <option value=eng>B.A. English</option>
+          <option value=if>B.A. Islamic Finance</option>  
+          <option value=mbt>M.Sc. Biotechnology</option>
+            <option value=mmb>M.Sc. Microbiology</option>
+            <option value=mft>M.Sc. Food Technology</option>
+            <option value=mcj>M.A Journalism & Mass Communication</option>
+            <option value=mis>M.A. Islamic Studies</option>
+            <option value=mcom>M.Com</option>        
+        </select>
+        </div>
+        <button type="submit" class="button">Submit </button>
+      </form>
+      <script>
+        function classChange(){
+          switch(document.getElementById('f').value){
+            case 'cs' : document.getElementById('c').value = "B.Sc.Computer-science";break;
+            case 'bca' : document.getElementById('c').value = "BCA";break;
+            case 'bba' : document.getElementById('c').value = "BBA";break;
+            case 'bcom' : document.getElementById('c').value = "B.Com";break;
+            case 'eco' : document.getElementById('c').value = "B.A.Economics";break;
+            case 'ft' : document.getElementById('c').value = "B.Sc.Food-Technolagy";break;
+            case 'mb' : document.getElementById('c').value = "B.Sc.Microbiology";break;
+            case 'bt' : document.getElementById('c').value = "B.Sc.Bio-technology";break;
+            case 'eng' : document.getElementById('c').value = "B.A.English";break;
+            case 'if' : document.getElementById('c').value = "B.A.Islamic-Finance";break;
+            case 'mbt' : document.getElementById('c').value = "M.Sc.Biotechnology";break;
+            case 'mmb' : document.getElementById('c').value = "M.Sc.Microbiology";break;
+            case 'mft' : document.getElementById('c').value = "M.Sc.Food_Technology";break;
+            case 'mcj' : document.getElementById('c').value = "M.A.Journalism-And-Mass-Communication";break;
+            case 'mis' : document.getElementById('c').value = "M.A.IslamicStudies";break;
+            case 'mcom' : document.getElementById('c').value = "M.Com";break;
+          }
+        }
+      </script>
+      
+    </body>
+</html>

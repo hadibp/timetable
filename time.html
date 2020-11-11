@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+     <style>
+        body {
+              background-color: lightgrey;
+              color: black;
+              text-decoration-color: black;
+              
+             }
+             h1 {
+                color: black;
+            }
+            tr {
+              background-color:white;
+              color: black ;
+              text-align: center;
+              font-weight: bold;
+              align-items: center;
+              }
+            th {
+                background-color:#2B9F74;
+                color: #ffffff;
+                text-align: center;
+                font-weight: bold;
+                align-items: center;
+              }
+             table{
+                
+                align-self: center;
+                color: yellow;
+                border-radius: 20px;
+              }
+             
+             
+</style>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12" style="margin-top:20px;margin-bottom: 15px;">
+                <h1 class="text-center" style="padding: 0px;margin: 0px;" id="class"></h1>
+                <h3 class="text-center" style="padding: 0px;margin: 0px;" id="year"></h3>
+            </div>
+            <div class="col-xs-12">
+                <table class="table table-striped table-bordered table-responsive" id="imp"  >
+                    <thead>
+                    <tr>
+                        <th>DAY</th>
+                        <th >1</th>
+                        <th >2</th>
+                        <th >3</th></th>
+                        <th >4</th>
+                        <th >5</th>
+                    </tr>
+                    
+                    </thead>
+                        <tbody>
+                            <tr>
+                                <th id="monday">Monday</th>
+                                <td id="H1"></td> 
+                                <td id="H2"></td>                      
+                                <td id="H3"></td>
+                                <td id="H4"></td>
+                                <td id="H5"></td>
+                            </tr>       
+
+                            <tr>
+                                <th id="tuesday" >Tuesday</th>
+                                <td id="H6"></td> 
+                                <td id="H7"></td>                      
+                                <td id="H8"></td>
+                                <td id="H9"></td>                                
+                                <td id="H10"></td>
+                            </tr>       
+
+                            <tr>
+                                <th id="wednesday" >Wednesday</th>
+                                <td id="H11"></td> 
+                                <td id="H12"></td>                      
+                                <td id="H13"></td>
+                                <td id="H14"></td>
+                                <td id="H15"></td>
+                            </tr>       
+
+                            <tr>
+                                <th id="thursday" >Thursday</th>
+                                <td id="H16"></td> 
+                                <td id="H17"></td>                      
+                                <td id="H18"></td>
+                                <td id="H19"></td>
+                                <td id="H20"></td>
+                            </tr>       
+                        
+                            <tr>
+                                <th id="friday" >Friday</th>
+                                <td id="H21"></td> 
+                                <td id="H22"></td>                      
+                                <td id="H23"></td>
+                                <td id="H24"></td>
+                                <td id="H25"></td>
+                            </tr>                                                   
+                        </tbody>
+                </table>
+            </div>
+            <hr width="100%" >
+            <div class="col-xs-12 days" >
+                <caption><b><center> MONDAY</center></b></caption>
+				<table  class="table table-striped table-bordered" id="zero">
+                    
+                    <thead>
+                        <tr>
+                            <th>  HOUR</th>
+                            <th>  SUBJECT</th>
+                            <th>  TEACHER</th>
+                            
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th>1</th>
+                            <td id="h1"></td> 
+                            <td id="teach1"></td>                      
+                        </tr>       
+                        <tr>
+                            <th>2</th>
+                            <td id="h2"></td> 
+                            <td id="teach2"></td>                      
+                        </tr>       
+                        <tr>
+                            <th>3</th>
+                            <td id="h3"></td> 
+                            <td id="teach3"></td>
+                        </tr>       
+                        <tr>
+                            <th>4</th>
+                            <td id="h4"></td> 
+                            <td id="teach4"></td>                      
+                        </tr>                              
+                        <tr>
+                            <th>5</th>
+                            <td id="h5"></td> 
+                            <td id="teach5"></td>                      
+                        </tr> 
+                    </tbody>
+                </table>
+            </div>
+            <hr width="100%" >
+            <div class="col-xs-12 days" >
+                <caption><b><center> TUESDAY</center></b></caption>
+			<table class="table table-striped table-bordered" >
+				
+                <thead>
+                    <tr>
+                        <th>  HOUR</th>
+                        <th>  SUBJECT</th>
+                        <th>  TEACHER</th>
+                        
+                    </tr>
+                
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>1</th>
+                        <td id="h6"></td> 
+                        <td id="teach6"></td>                      
+                    </tr>       
+
+                    <tr>
+                        <th>2</th>
+                        <td id="h7"></td> 
+                        <td id="teach7"></td>                      
+                    </tr>       
+
+                    <tr>
+                        <th>3</th>
+                        <td id="h8"></td> 
+                        <td id="teach8"></td>
+                    </tr>       
+
+                    <tr>
+                        <th>4</th>
+                        <td id="h9"></td> 
+                        <td id="teach9"></td>                      
+                    </tr>       
+                    
+                    <tr>
+                        <th>5</th>
+                        <td id="h10"></td> 
+                        <td id="teach10"></td>                      
+                    </tr> 
+                </tbody>
+            </table>
+            </div>
+            <hr width="100%" >
+            <div class="col-xs-12 days" >
+                <caption><b><center> WEDNESDAY</center></b></caption>
+			<table class="table table-striped table-bordered" >
+				
+
+                <thead>
+                <tr>
+                    <th>  HOUR</th>
+                    <th>  SUBJECT</th>
+                    <th>  TEACHER</th>
+                    
+                </tr>
+                
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>1</th>
+                        <td id="h11"></td> 
+                        <td id="teach11"></td>                      
+                    </tr>       
+
+                    <tr>
+                        <th>2</th>
+                        <td id="h12"></td> 
+                        <td id="teach12"></td>                      
+                    </tr>       
+
+                    <tr>
+                        <th>3</th>
+                        <td id="h13"></td> 
+                        <td id="teach13"></td>
+                    </tr>       
+
+                    <tr>
+                        <th>4</th>
+                        <td id="h14"></td> 
+                        <td id="teach14"></td>                      
+                    </tr>       
+                    
+                    <tr>
+                        <th>5</th>
+                        <td id="h15"></td> 
+                        <td id="teach15"></td>                      
+                    </tr> 
+                </tbody>
+            </table>
+            </div>
+            <hr width="100%" >
+            <div class="col-xs-12 days" >
+                <caption ><b><center> THURSDAY</center></b></caption>
+			<table class="table table-striped table-bordered" >
+				
+                <thead>
+                <tr>
+                    <th>  HOUR</th>
+                    <th>  SUBJECT</th>
+                    <th>  TEACHER</th>
+                    
+                </tr>
+                
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>1</th>
+                        <td id="h16"></td> 
+                        <td id="teach16"></td>                      
+                    </tr>       
+
+                    <tr>
+                        <th> 2</th>
+                        <td id="h17"></td> 
+                        <td id="teach17"></td>                      
+                    </tr>       
+
+                    <tr>
+                        <th> 3</th>
+                        <td id="h18"></td> 
+                        <td id="teach18"></td>
+                    </tr>       
+
+                    <tr>
+                        <th> 4</th>
+                        <td id="h19"></td> 
+                        <td id="teach19"></td>                      
+                    </tr>       
+                    
+                    <tr>
+                        <th> 5</th>
+                        <td id="h20"></td> 
+                        <td id="teach20"></td>                      
+                    </tr> 
+                </tbody>
+            </table>
+            </div>
+            <hr width="100%" >
+            <div class="col-xs-12 days" >
+                <caption><b><center> FRIDAY</center></b></caption>
+			<table class="table table-striped table-bordered" >
+        
+                <thead>
+                    <tr>
+                        <th>  HOUR</th>
+                        <th>  SUBJECT</th>
+                        <th>  TEACHER</th>
+                        
+                    </tr>                       
+                </thead>
+                <tbody>
+                    <tr>
+                        <th> 1</th>
+                        <td id="h21"></td> 
+                        <td id="teach21"></td>                      
+                    </tr>       
+
+                    <tr>
+                        <th> 2</th>
+                        <td id="h22"></td> 
+                        <td id="teach22"></td>                      
+                    </tr>       
+
+                    <tr>
+                        <th> 3</th>
+                        <td id="h23"></td> 
+                        <td id="teach23"></td>
+                    </tr>       
+
+                    <tr>
+                        <th>4</th>
+                        <td id="h24"></td> 
+                        <td id="teach24"></td>                      
+                    </tr>       
+                    
+                    <tr>
+                        <th>5</th>
+                        <td id="h25"></td> 
+                        <td id="teach25"></td>                      
+                    </tr> 
+                </tbody>
+            </table>
+            </div>
+        </div>
+    </div>
+               
+    <script>
+       var lnk;
+        var url = document.URL
+        var ci = url.indexOf('c=');
+        var yi = url.indexOf('y=');
+        var fi = url.indexOf('f=');
+        var c = url.substring(ci+2,yi-1);
+        var y = url.substring(yi+2,fi-1);
+        var f = url.substring(fi+2,);
+        document.getElementById('class').innerHTML = c;
+        document.getElementById('year').innerHTML = 'YEAR '+y;
+        lnk = 'https://naflath.github.io/Sias-Timetable/'+f+y+'.json';
+        let ttReq = new Request(lnk);
+        fetch(ttReq)
+            .then(function(resp){
+            return resp.json();
+            })
+            .then(function(data){
+            document.getElementById('H1').innerHTML=data.monday.h1.sub;
+            console.log(data.monday.h1.sub);
+            document.getElementById('H2').innerHTML=data.monday.h2.sub;
+            console.log(data.monday.h2.sub);
+            document.getElementById('H3').innerHTML=data.monday.h3.sub;
+            console.log(data.monday.h3.sub);
+            document.getElementById('H4').innerHTML=data.monday.h4.sub;
+            console.log(data.monday.h4.sub);
+            document.getElementById('H5').innerHTML=data.monday.h5.sub;
+            console.log(data.monday.h5.sub);
+            document.getElementById('H6').innerHTML=data.tuesday.h1.sub;
+            console.log(data.tuesday.h1.sub);
+            document.getElementById('H7').innerHTML=data.tuesday.h2.sub;
+            console.log(data.tuesday.h2.sub);
+            document.getElementById('H8').innerHTML=data.tuesday.h3.sub;
+            console.log(data.tuesday.h3.sub);
+            document.getElementById('H9').innerHTML=data.tuesday.h4.sub;
+            console.log(data.tuesday.h4.sub);
+            document.getElementById('H10').innerHTML=data.tuesday.h5.sub;
+            console.log(data.tuesday.h5.sub);
+            document.getElementById('H11').innerHTML=data.wednesday.h1.sub;
+            console.log(data.wednesday.h1.sub);
+            document.getElementById('H12').innerHTML=data.wednesday.h2.sub;
+            console.log(data.wednesday.h2.sub);
+            document.getElementById('H13').innerHTML=data.wednesday.h3.sub;
+            console.log(data.wednesday.h3.sub);					  
+            document.getElementById('H14').innerHTML=data.wednesday.h4.sub;
+            console.log(data.wednesday.h4.sub);	
+            document.getElementById('H15').innerHTML=data.wednesday.h5.sub;
+            console.log(data.wednesday.h5.sub);
+            document.getElementById('H16').innerHTML=data.thursday.h1.sub;
+            console.log(data.thursday.h1.sub);
+            document.getElementById('H17').innerHTML=data.thursday.h2.sub;
+            console.log(data.thursday.h2.sub);
+            document.getElementById('H18').innerHTML=data.thursday.h3.sub;
+            console.log(data.thursday.h3.sub);
+            document.getElementById('H19').innerHTML=data.thursday.h4.sub;
+            console.log(data.thursday.h4.sub);
+            document.getElementById('H20').innerHTML=data.thursday.h5.sub;
+            console.log(data.thursday.h5.sub);					  
+            document.getElementById('H21').innerHTML=data.friday.h1.sub;
+            console.log(data.friday.h1.sub);
+            document.getElementById('H22').innerHTML=data.friday.h2.sub;
+            console.log(data.friday.h2.sub);
+            document.getElementById('H23').innerHTML=data.friday.h3.sub;
+            console.log(data.friday.h3.sub);
+            document.getElementById('H24').innerHTML=data.friday.h4.sub;
+            console.log(data.friday.h4.sub);
+            document.getElementById('H25').innerHTML=data.friday.h5.sub;
+            console.log(data.friday.h5.sub);
+            //days
+            document.getElementById('h1').innerHTML=data.monday.h1.sub;
+            console.log(data.monday.h1.sub);
+            document.getElementById('teach1').innerHTML=data.monday.h1.teacher;
+            console.log(data.monday.h1.teacher);
+            document.getElementById('h2').innerHTML=data.monday.h2.sub;
+            console.log(data.monday.h2.sub);
+            document.getElementById('teach2').innerHTML=data.monday.h2.teacher;
+            console.log(data.monday.h2.teacher);
+            document.getElementById('h3').innerHTML=data.monday.h3.sub;
+            console.log(data.monday.h3.sub);
+            document.getElementById('teach3').innerHTML=data.monday.h3.teacher;
+            console.log(data.monday.h3.teacher);
+            document.getElementById('h4').innerHTML=data.monday.h4.sub;
+            console.log(data.monday.h4.sub);
+            document.getElementById('teach4').innerHTML=data.monday.h4.teacher;
+            console.log(data.monday.h4.teacher);
+            document.getElementById('h5').innerHTML=data.monday.h5.sub;
+            console.log(data.monday.h5.sub);
+            document.getElementById('teach5').innerHTML=data.monday.h5.teacher;
+            console.log(data.monday.h5.teacher);
+            document.getElementById('h6').innerHTML=data.tuesday.h1.sub;
+            console.log(data.tuesday.h1.sub);
+            document.getElementById('teach6').innerHTML=data.tuesday.h1.teacher;
+            console.log(data.tuesday.h1.teacher);
+            document.getElementById('h7').innerHTML=data.tuesday.h2.sub;
+            console.log(data.tuesday.h2.sub);
+            document.getElementById('teach7').innerHTML=data.tuesday.h2.teacher;
+            console.log(data.tuesday.h2.teacher);
+            document.getElementById('h8').innerHTML=data.tuesday.h3.sub;
+            console.log(data.tuesday.h3.sub);
+            document.getElementById('teach8').innerHTML=data.tuesday.h3.teacher;
+            console.log(data.tuesday.h3.teacher);
+            document.getElementById('h9').innerHTML=data.tuesday.h4.sub;
+            console.log(data.tuesday.h4.sub);
+            document.getElementById('teach9').innerHTML=data.tuesday.h4.teacher;
+            console.log(data.tuesday.h4.teacher);
+            document.getElementById('h10').innerHTML=data.tuesday.h5.sub;
+            console.log(data.tuesday.h5.sub);
+            document.getElementById('teach10').innerHTML=data.tuesday.h5.teacher;
+            console.log(data.tuesday.h5.teacher);
+            document.getElementById('h11').innerHTML=data.wednesday.h1.sub;
+            document.getElementById('teach11').innerHTML=data.wednesday.h1.teacher;
+            document.getElementById('h12').innerHTML=data.wednesday.h2.sub;
+            document.getElementById('teach12').innerHTML=data.wednesday.h2.teacher;
+            document.getElementById('h13').innerHTML=data.wednesday.h3.sub;
+            document.getElementById('teach13').innerHTML=data.wednesday.h3.teacher;
+            document.getElementById('h14').innerHTML=data.wednesday.h4.sub;
+            document.getElementById('teach14').innerHTML=data.wednesday.h4.teacher;
+            document.getElementById('h15').innerHTML=data.wednesday.h5.sub;
+            document.getElementById('teach15').innerHTML=data.wednesday.h5.teacher;
+            document.getElementById('h16').innerHTML=data.thursday.h1.sub;
+            document.getElementById('teach16').innerHTML=data.thursday.h1.teacher;
+            document.getElementById('h17').innerHTML=data.thursday.h2.sub;
+            document.getElementById('teach17').innerHTML=data.thursday.h2.teacher;
+            document.getElementById('h18').innerHTML=data.thursday.h3.sub;
+            document.getElementById('teach18').innerHTML=data.thursday.h3.teacher;
+            document.getElementById('h19').innerHTML=data.thursday.h4.sub;
+            document.getElementById('teach19').innerHTML=data.thursday.h4.teacher;
+            document.getElementById('h20').innerHTML=data.thursday.h5.sub;
+            document.getElementById('teach20').innerHTML=data.thursday.h5.teacher;
+            document.getElementById('h21').innerHTML=data.friday.h1.sub;
+            document.getElementById('teach21').innerHTML=data.friday.h1.teacher;
+            document.getElementById('h22').innerHTML=data.friday.h2.sub;
+            document.getElementById('teach22').innerHTML=data.friday.h2.teacher;
+            document.getElementById('h23').innerHTML=data.friday.h3.sub;
+            document.getElementById('teach23').innerHTML=data.friday.h3.teacher;                    
+            document.getElementById('h24').innerHTML=data.friday.h4.sub;
+            document.getElementById('teach24').innerHTML=data.friday.h4.teacher;
+            document.getElementById('h25').innerHTML=data.friday.h5.sub;
+            document.getElementById('teach25').innerHTML=data.friday.h5.teacher;
+        });
+            
+
+    </script>
+</body>
+</html>

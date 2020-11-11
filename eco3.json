@@ -1,0 +1,162 @@
+{
+    "monday":{
+        "h1":{
+            "room":"Online",
+            "sub":"It",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr1"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Open",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr2"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Cm",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr3"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Ie",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr4"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Me",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr5"
+        }
+    },
+    "tuesday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Ie",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr6"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Me",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr7"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"It",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr8"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Me",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr9"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Ie",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr10"
+        }
+    },
+    "wednesday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Me",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr11"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Cm",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr12"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"It",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr13"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Ie",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr14"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Pro",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr15"
+        }
+    },
+    "thursday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Ie",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr16"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Cm",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr17"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"It",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr18"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Open",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr19"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Me",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr20"
+        }
+    },
+    "friday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Ie",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr21"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"It",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr22"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Me",
+            "teacher":"Lukmanul Hakeem M",
+            "hid":"Hr23"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Cm",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr24"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Cm",
+            "teacher":"Ranjini M.K",
+            "hid":"Hr25"
+        }
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "monday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Pfi",
+            "teacher":"Naji Naseem",
+            "hid":"Hr1"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Open",
+            "teacher":"Naji Naseem",
+            "hid":"Hr2"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Fie",
+            "teacher":"Naji Naseem",
+            "hid":"Hr3"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Fs",
+            "teacher":"Muhammed Nizam V.P",
+            "hid":"Hr4"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Foa",
+            "teacher":"Muhammed Nizam V.P",
+            "hid":"Hr5"
+        }
+    },
+    "tuesday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Pfi",
+            "teacher":"Naji Naseem",
+            "hid":"Hr6"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Foa",
+            "teacher":"Muhammed Nizam V.P",
+            "hid":"Hr7"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Fie",
+            "teacher":"Naji Naseem",
+            "hid":"Hr8"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Fs",
+            "teacher":"Muhammed Nizam V.P",
+            "hid":"Hr9"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Pro",
+            "teacher":"",
+            "hid":"Hr10"
+        }
+    },
+    "wednesday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Pfi",
+            "teacher":"Naji Naseem",
+            "hid":"Hr11"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Foa",
+            "teacher":"Muhammed Nizam V.P",
+            "hid":"Hr12"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Fie",
+            "teacher":"Naji Naseem",
+            "hid":"Hr13"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Fs",
+            "teacher":"Muhammed Nizam V.P",
+            "hid":"Hr14"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Pro",
+            "teacher":"",
+            "hid":"Hr15"
+        }
+    },
+    "thursday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Pfi",
+            "teacher":"Naji Naseem",
+            "hid":"Hr16"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Foa",
+            "teacher":"Muhammed Nizam V.P",
+            "hid":"Hr17"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Fie",
+            "teacher":"Naji Naseem",
+            "hid":"Hr18"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Open",
+            "teacher":"",
+            "hid":"Hr19"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Prfs",
+            "teacher":"Muhammed Nizam V.P",
+            "hid":"Hr20"
+        }
+    },
+    "friday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Pfi",
+            "teacher":"Naji Naseem",
+            "hid":"Hr21"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Foa",
+            "teacher":"Muhammed Nizam V.P",
+            "hid":"Hr22"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Fie",
+            "teacher":"Naji Naseem",
+            "hid":"Hr23"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Fs",
+            "teacher":"Muhammed Nizam V.P",
+            "hid":"Hr24"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Fs",
+            "teacher":"Muhammed Nizam V.P",
+            "hid":"Hr25"
+        }
+    }
+}

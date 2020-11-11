@@ -1,0 +1,162 @@
+{
+    "monday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Fmb",
+            "teacher":"Asha B",
+            "hid":"Hr1"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Open",
+            "teacher":"Farha Baramy",
+            "hid":"Hr2"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Imb",
+            "teacher":"Farha Baramy",
+            "hid":"Hr3"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Imm",
+            "teacher":"Shainy N.K",
+            "hid":"Hr4"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Med",
+            "teacher":"Smitha K.V",
+            "hid":"Hr5"
+        }
+    },
+    "tuesday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Ind",
+            "teacher":"Farha Baramy",
+            "hid":"Hr6"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Med",
+            "teacher":"Smitha K.V",
+            "hid":"Hr7"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Fmb",
+            "teacher":"Asha B",
+            "hid":"Hr8"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Mbp",
+            "teacher":"Shabanamol S",
+            "hid":"Hr9"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Ind",
+            "teacher":"Farha Baramy",
+            "hid":"Hr10"
+        }
+    },
+    "wednesday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Imm",
+            "teacher":"Shainy N.K",
+            "hid":"Hr11"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Med",
+            "teacher":"Smitha K.V",
+            "hid":"Hr12"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Imb",
+            "teacher":"Farha Baramy",
+            "hid":"Hr13"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Imm",
+            "teacher":"Shainy N.K",
+            "hid":"Hr14"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Imb",
+            "teacher":"Farha Baramy",
+            "hid":"Hr15"
+        }
+    },
+    "thursday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Fmb",
+            "teacher":"Asha B",
+            "hid":"Hr16"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Med",
+            "teacher":"Smitha K.V",
+            "hid":"Hr17"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Imm",
+            "teacher":"Shainy N.K",
+            "hid":"Hr18"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Open",
+            "teacher":"Farha Baramy",
+            "hid":"Hr19"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Fmb",
+            "teacher":"Asha B",
+            "hid":"Hr20"
+        }
+    },
+    "friday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Imm",
+            "teacher":"Shainy N.K",
+            "hid":"Hr21"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Mbp",
+            "teacher":"Smitha K.V",
+            "hid":"Hr22"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Mbp",
+            "teacher":"Shabanamol S",
+            "hid":"Hr23"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Imb",
+            "teacher":"Farha Baramy",
+            "hid":"Hr24"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Med",
+            "teacher":"Smitha K.V",
+            "hid":"Hr25"
+        }
+    }
+}

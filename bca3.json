@@ -1,0 +1,162 @@
+{
+    "monday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Co",
+            "teacher":"Manju s.Thomson",
+            "hid":"Hr1"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Open",
+            "teacher":"Arshad P.T",
+            "hid":"Hr2"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Java",
+            "teacher":"Alkka Mohan V",
+            "hid":"Hr3"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Php",
+            "teacher":"Muhammed Haneesh K.P",
+            "hid":"Hr4"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Se",
+            "teacher":"Divya M.C",
+            "hid":"Hr5"
+        }
+    },
+    "tuesday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Java",
+            "teacher":"Alkka Mohan V",
+            "hid":"Hr6"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Php",
+            "teacher":"Muhammed Haneesh K.P",
+            "hid":"Hr7"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Se",
+            "teacher":"Divya M.C",
+            "hid":"Hr8"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Co",
+            "teacher":"Manju s.Thomson",
+            "hid":"Hr9"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Pro",
+            "teacher":"Abdul Samad C",
+            "hid":"Hr10"
+        }
+    },
+    "wednesday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Se",
+            "teacher":"Divya M.C",
+            "hid":"Hr11"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Co",
+            "teacher":"Manju s.Thomson",
+            "hid":"Hr12"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Java",
+            "teacher":"Alkka Mohan V",
+            "hid":"Hr13"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Php",
+            "teacher":"Muhammed Haneesh K.P",
+            "hid":"Hr14"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Java",
+            "teacher":"Alkka Mohan V",
+            "hid":"Hr15"
+        }
+    },
+    "thursday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Php",
+            "teacher":"Muhammed Haneesh K.P",
+            "hid":"Hr16"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Se",
+            "teacher":"Divya M.C",
+            "hid":"Hr17"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Java",
+            "teacher":"Alkka Mohan V",
+            "hid":"Hr18"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Open",
+            "teacher":"Arshad P.T",
+            "hid":"Hr19"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Co",
+            "teacher":"Manju s.Thomson",
+            "hid":"Hr20"
+        }
+    },
+    "friday":{
+        "h1":{
+            "room":"Online",
+            "sub":"Php",
+            "teacher":"Muhammed Haneesh K.P",
+            "hid":"Hr21"
+        },
+        "h2":{
+            "room":"Online",
+            "sub":"Java",
+            "teacher":"Alkka Mohan V",
+            "hid":"Hr22"
+        },
+        "h3":{
+            "room":"Online",
+            "sub":"Co",
+            "teacher":"Manju s.Thomson",
+            "hid":"Hr23"
+        },
+        "h4":{
+            "room":"Online",
+            "sub":"Se",
+            "teacher":"Divya M.C",
+            "hid":"Hr24"
+        },
+        "h5":{
+            "room":"Online",
+            "sub":"Php",
+            "teacher":"Muhammed Haneesh K.P",
+            "hid":"Hr25"
+        }
+    }
+}
